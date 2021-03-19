@@ -1,0 +1,12 @@
+
+
+footer {
+    background-color: black;
+    color: darkgoldenrod;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 20px;
+
+}
