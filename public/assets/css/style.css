@@ -1,6 +1,6 @@
+body
 
-
-footer {
+.pie {
     background-color: black;
     color: darkgoldenrod;
     width: 100%;
@@ -8,5 +8,5 @@ footer {
     bottom: 0px;
     text-align: center;
     padding: 20px;
-
+    
 }
